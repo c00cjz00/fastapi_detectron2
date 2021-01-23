@@ -30,4 +30,7 @@ http://$IP:9999
 ```
 
 Editor: Allen Chuang
+<<<<<<< HEAD
 
+=======
+>>>>>>> 323a21115e6c0290d0853324eaf1c9825e2f394e
